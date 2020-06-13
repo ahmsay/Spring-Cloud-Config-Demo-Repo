@@ -1,0 +1,4 @@
+accountServiceUrl: http://account-service/
+inventoryServiceUrl: http://inventory-service/
+orderServiceUrl: http://order-service/
+paymentServiceUrl: http://payment-service/
