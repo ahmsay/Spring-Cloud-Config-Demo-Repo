@@ -1,4 +1,4 @@
-services.account: http://account-s:8081
-services.inventory: http://inventory-s:8082
-services.order: http://order-s:8083
-services.payment: http://payment-s:8084
+services.account: http://account-s
+services.inventory: http://inventory-s
+services.order: http://order-s
+services.payment: http://payment-s
