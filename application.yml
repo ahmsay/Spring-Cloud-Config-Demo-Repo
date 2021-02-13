@@ -1,4 +1,4 @@
-services.account: http://account-s
-services.inventory: http://inventory-s
-services.order: http://order-s
-services.payment: http://payment-s
+accountServiceUrl: http://account-s
+inventoryServiceUrl: http://inventory-s
+orderServiceUrl: http://order-s
+paymentServiceUrl: http://payment-s
