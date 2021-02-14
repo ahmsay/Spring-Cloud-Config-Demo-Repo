@@ -1,6 +1,1 @@
-accountServiceUrl: http://account-s
-inventoryServiceUrl: http://inventory-s
-orderServiceUrl: http://order-s
-paymentServiceUrl: http://payment-s
-
-home.message: Application is running on port ${server.port}
+home.message: I'm alive
